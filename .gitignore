@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Ignore old models only
+models/last.onnx
+models2/
+
+# Dataset
+data/
+datasets/
+
+# Outputs
+outputs/
+results/
+runs/
+
+# Generated videos
+*.mp4
+*.avi
+*.mov
+
+# Temporary files
+temp/
+tmp/
+
+# OS files
+.DS_Store
+Thumbs.db

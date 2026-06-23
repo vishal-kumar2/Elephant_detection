@@ -21,8 +21,8 @@ Traditional wildlife monitoring systems rely heavily on:
 These methods are:
 
 - Labor intensive
-- Slow
-- Limited in coverage
+- Sluggish
+- Limited in coverage area
 - Unable to provide real-time alerts
 
 An intelligent automated surveillance system is required for early detection and warning of elephant intrusions.

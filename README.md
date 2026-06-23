@@ -59,7 +59,7 @@ An intelligent automated surveillance system is required for early detection and
 
 ✅ Detection event logging
 
-✅ Low-latency deployment on edge devices
+✅ Low-latency deployment on edge devices 
 
 ---
 
@@ -78,7 +78,7 @@ Drone / Camera Feed
  Elephant Detection
           │
           ▼
- Bounding Box & Count
+ Bounding Box & Count of Elephant
           │
           ▼
  GPS Localization
@@ -143,7 +143,6 @@ Drone / Camera Feed
   - Bison
   - Buffalo
   - Wild Boar
-  - Hippopotamus
 
 ### Annotation Tool
 
@@ -233,7 +232,7 @@ The system will:
 - Load the ONNX model
 - Process image/video feed
 - Detect elephants
-- Draw bounding boxes
+- Draw the bounding boxes
 - Count detections
 - Generate alerts when required
 

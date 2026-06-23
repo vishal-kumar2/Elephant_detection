@@ -2,7 +2,7 @@
 
 ## Overview
 
-Human-Elephant Conflict (HEC) is a growing concern in many regions where elephants frequently enter villages, farms, and forest boundary areas, causing loss of human life, crop damage, and threats to wildlife conservation.
+Human-Elephant Conflict is a growing concern in many regions where elephants frequently enter villages, farms, and forest boundary areas, causing loss of human life, crop damage, and threats to wildlife conservation.
 
 This project presents an AI-powered Real-Time Elephant Detection and Alert System that uses Computer Vision, Edge AI, GPS Localization, and Cellular Communication to detect elephant intrusions and generate immediate alerts.
 
